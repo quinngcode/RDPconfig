@@ -1,4 +1,4 @@
-'''
+'''python
 
 ; RDP Wrapper Library configuration
 ; Do not modify without special knowledge
