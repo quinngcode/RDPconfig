@@ -1,3 +1,5 @@
+'''
+
 ; RDP Wrapper Library configuration
 ; Do not modify without special knowledge
 ; Edited by sebaxakerhtc
@@ -16574,3 +16576,4 @@ bRemoteConnAllowed.x64=F6AA0
 bMultimonAllowed.x64  =F6AA4
 ulMaxDebugSessions.x64=F6AA8
 bFUSEnabled.x64       =F6AAC
+'''
